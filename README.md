@@ -7,7 +7,3 @@ Using Node's built-in `http` module, create a server with two routes:
 - `GET /about` → respond with the HTML `<h1>About Page</h1>`
 
 Set the `Content-Type` header to `text/html` on both responses. Listen on port `3000`.
-
-## Marks: 5
-
-Evaluated on: correct code (3), successful execution/output shown (2).
